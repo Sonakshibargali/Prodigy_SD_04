@@ -111,6 +111,4 @@ The tests cover:
 **Prodigy InfoTech — Software Development Internship**  
 **Task 04: Sudoku Solver**
 
-## 📄 License
 
-This project is available under the **MIT License**.
